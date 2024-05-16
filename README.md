@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 🎓 Finished [Google cybersecurity certificate](https://www.credly.com/badges/6107c4f5-edff-451b-96a5-cdfcbf7d6024/linked_in_profile).<br>
 - ✉️ you can reach me in Abdelslammohamed1738@gmail.com or [Linkedln profile](https://www.linkedin.com/in/abdelslam-mohamed-094601241/).
 <h2>💻projects</h2>
-- [Virtual Home Network](https://github.com/Abdelslam1999/Home_Network/blob/main/README.md)
+- <a href="https://github.com/Abdelslam1999/Home_Network">Virtual Home Lab</a>
