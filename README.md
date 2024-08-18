@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <li><a href="https://github.com/Abdelslam1999/Google-s-cybersecurity-certificate">Goolgle's cybersecurity certificate </a></li>
 <li><a href="https://github.com/Abdelslam1999/Google-IT-Support-certificate?tab=readme-ov-file#5-diagram-overview-">Google's IT Support certificate</a></li>
 </ul>
-<h2>🖥️IT Support related projects<h2>
+<h2>🖥️IT Support related projects</h2>
 <ul>
 <li><a href="https://github.com/Abdelslam1999/Active-Directory">Active Directory Home Lab</a></li>
 </ul>
@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 <h2>👨‍💻python_projects</h2>
 <ul>
 <li><a href="https://github.com/Abdelslam1999/python/tree/main"> 5 python projects</a></li>
+
 </ul>
