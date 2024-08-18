@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelslam-mohamed-094601241)
 
 <h2>🏆Certificates</h2>
-- <a href="https://github.com/Abdelslam1999/Google-s-cybersecurity-certificate">Goolgle's cybersecurity certificate </a>
+- <a href="https://github.com/Abdelslam1999/Google-s-cybersecurity-certificate">Goolgle's cybersecurity certificate </a><br>
 - <a href="https://github.com/Abdelslam1999/Google-IT-Support-certificate?tab=readme-ov-file#5-diagram-overview-">Google's IT Support certificate</a>
 <h2>🖥️IT Support related projects<h2>
 - <a href="https://github.com/Abdelslam1999/Active-Directory">Active Directory Home Lab</a>
