@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 <h2>👨‍💻python_projects</h2>
 <ul>
 <li><a href="https://github.com/Abdelslam1999/python/tree/main"> 5 python projects</a></li>
-
 </ul>
