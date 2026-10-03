@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 Studied [Banking Information System] at the university of sudan academy for banking and financial sciences.<br>
 <br>
 - ✉️ you can reach me in[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Abdelslammohamed1738@gmail.com)
-  or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelslam-mohamed-094601241)
+  or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalsalam-mohamed?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <h2>🏆Certificates</h2>
 <ul>
